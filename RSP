@@ -1,0 +1,63 @@
+🎮 CodSoft Python Internship – Task 4 Completed: Rock-Paper-Scissors Game 🐍
+
+I'm delighted to share that I have successfully completed Task 4 of my Python Programming Internship at CodSoft by creating a Rock-Paper-Scissors Game using Python.
+
+This project was both enjoyable and educational. It helped me strengthen my understanding of programming logic, user interaction, and random number generation while creating an engaging command-line game.
+
+📌 Project Overview
+
+The application allows users to play Rock-Paper-Scissors against the computer. The computer randomly selects its move, compares it with the user's choice, and displays whether the user wins, loses, or draws.
+
+✨ Key Features
+
+✅ Interactive user interface
+
+✅ Random computer selection
+
+✅ Automatic winner determination
+
+✅ Score tracking for multiple rounds
+
+✅ Play-again option
+
+✅ Input validation
+
+🛠️ Technologies & Concepts Used
+
+• Python Programming
+
+• Random Module
+
+• Conditional Statements
+
+• Loops
+
+• Functions
+
+• User Input Handling
+
+• Game Logic Implementation
+
+📚 Skills I Strengthened
+
+🔹 Developing interactive Python applications.
+
+🔹 Designing game logic.
+
+🔹 Working with random number generation.
+
+🔹 Improving debugging and analytical thinking.
+
+🔹 Creating user-friendly command-line applications.
+
+🎯 Challenges Faced
+
+Designing the winner-selection logic while handling invalid user inputs was one of the most interesting parts of this project. Ensuring smooth gameplay across multiple rounds also improved my understanding of loops and program flow.
+
+🌱 Key Takeaways
+
+This project demonstrated that even simple games require strong logical thinking and proper program structure. It also enhanced my confidence in building interactive Python applications.
+
+A sincere thank you to CodSoft for providing practical projects that encourage continuous learning and skill development.
+
+#CodSoft #Python #PythonProgramming #GameDevelopment #RockPaperScissors #Internship #Coding #Programming #SoftwareDevelopment #Developer #Projects #Learning
